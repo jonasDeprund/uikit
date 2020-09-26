@@ -24,3 +24,16 @@ h1{
     font-size: 17px;
     color: #2c3e50;
 }
+
+.btn{
+    font-size: 14px;
+    padding: 20px;
+    background-color: #2ecd72;
+    border-radius: 5px;
+    border: none;
+    color: white;
+}
+
+.btn:hover{
+    background-color: #29ae60;
+}
