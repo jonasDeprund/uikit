@@ -37,3 +37,18 @@ h1{
 .btn:hover{
     background-color: #29ae60;
 }
+
+/*
+*  Alert box
+*/
+
+.alert{
+    padding: 25px 0 25px 25px;
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #76222a;
+    border: #721c24;
+    width: 500px;
+    background-color: #f7d7db;
+}
+
