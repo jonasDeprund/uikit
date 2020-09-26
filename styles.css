@@ -82,22 +82,13 @@ h1{
     font-family: sans-serif;
     position: relative;
     padding: 20px;
-
+    border-bottom: solid 1px #DFDFDF;
 }
 
-.list-group-item:after{
-    content: "";
-    position: absolute;
-    height: 1px;
-    background-color: #dfdfdf;
-    width: 380px;
-    bottom: 0;
-    left: 0;
+.list-group-item:last-child{
+    border-bottom: none;
 }
 
-.list-group-item:last-child:after{
-    display: none;
-}
 
 /*
 *  Card
