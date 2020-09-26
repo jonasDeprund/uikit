@@ -52,3 +52,20 @@ h1{
     background-color: #f7d7db;
 }
 
+
+/*
+*  List group
+*/
+
+.list-group{
+    list-style: none;
+}
+
+.list-group-item{
+    font-size: 14px;
+    font-family: sans-serif;
+    border: solid 1px #DFDFDF;
+    padding: 20px;
+    width: 380px;
+    border-radius: 5px;
+}
