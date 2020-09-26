@@ -24,6 +24,9 @@ h1{
     font-size: 17px;
     font-family: sans-serif;
     color: #2c3e50;
+    text-align: center;
+
+    margin: 50px auto;
 }
 
 .btn{
@@ -33,6 +36,7 @@ h1{
     border-radius: 5px;
     border: none;
     color: white;
+    display: block;
 
     margin: 50px auto;
 }
@@ -103,6 +107,8 @@ h1{
     width: 277px;
     border: solid 1px #dfdfdf;
     border-radius: 5px;
+
+    margin: 50px auto;
 }
 
 .card-content{
@@ -133,6 +139,8 @@ p{
     font-size: 14px;
     font-family: sans-serif;
     padding: 20px;
+
+    margin: 50px auto;
 }
 
 .navbar-item{
